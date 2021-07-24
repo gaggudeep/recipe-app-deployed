@@ -4,6 +4,8 @@
 
 A simple JS app to add, view or bookmark recipes **quickly**.
 
+**Deployed at https://forkify-gagan.netlify.app/**
+
 **Prerequisites**
 - NPM
 
